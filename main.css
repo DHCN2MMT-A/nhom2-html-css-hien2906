@@ -1,0 +1,22 @@
+nav{
+    list-style-type:none;
+    }
+nav a{
+    text-decoration:none;
+    text-align:center;
+    display: block;
+    background:rgb(10, 132, 247);
+    width:135px;
+    float:left;
+    color:#fff;
+    line-height:30px;
+    border-left: 1px solid #ccc;
+}
+#noidung img {
+    margin-left: 40%;
+    width: 270px;
+    height: 270px;
+}
+#noidung p{
+    text-align: center;
+}
